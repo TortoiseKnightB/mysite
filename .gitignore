@@ -3,3 +3,4 @@ settings.py
 __pycache__/
 .DS_Store
 static_collected/
+data.json
